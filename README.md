@@ -1,2 +1,2 @@
 # Predictive-Maintenance-of-Electric-Motor-using-Machine-Learning
-The project implements a predictive maintenance of an electric motor using ESP8266 wifi module. The project involves interfacing different sensors such as Temperature sensor, Current sensor, Vibration sensor with ESP8266 module. 
+The project implements a predictive maintenance of an electric motor using ESP8266 wifi module. The project involves interfacing different sensors such as Temperature sensor, Current sensor, Vibration sensor with ESP8266 module. We also used Machine Learning in the project to predict future current, temperature and vibration values to provide service to the motor before it damages completely. This mainly helps in reducing down time of motor and severe damage to motor.
